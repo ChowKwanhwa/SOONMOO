@@ -23,8 +23,8 @@ function Home() {
               </h1>
               <p className="paragraph">$SONMOO dives into the feline <br /> frenzy where every transaction <br /> is a cat-tastic adventure. 
               </p>
-              <Button variant="primary" href="https://t.me/pumpfunfuck2" className="button-with-high-zindex">
-                Join Telegram
+              <Button variant="primary" href="https://x.com/Soon_moo_cat" className="button-with-high-zindex">
+                Vist Soonmoo Twitter
               </Button>
 
 
