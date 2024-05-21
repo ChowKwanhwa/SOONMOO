@@ -49,7 +49,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/PUMPFUCK176852"
+                  href="https://twitter.com/Soon_moo_cat"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

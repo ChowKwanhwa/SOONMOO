@@ -1,29 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.7710bbfd.css",
-    "main.js": "/static/js/main.c18486dc.js",
-    "static/js/415.c8ae90d5.chunk.js": "/static/js/415.c8ae90d5.chunk.js",
-    "static/js/787.fa3c4679.chunk.js": "/static/js/787.fa3c4679.chunk.js",
-    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.f31c00c0623443fc6fa3.pdf",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "main.css": "/static/css/main.d88dca5b.css",
+    "main.js": "/static/js/main.15875e2e.js",
+    "static/js/415.674e9489.chunk.js": "/static/js/415.674e9489.chunk.js",
+    "static/js/787.75688b6b.chunk.js": "/static/js/787.75688b6b.chunk.js",
+    "static/media/logo.png": "/static/media/logo.db4a2a0f63ae1e7b545d.png",
+    "static/media/2.jpg": "/static/media/2.ee5c3ee99c7672e9d4f5.jpg",
+    "static/media/1.jpg": "/static/media/1.4b09eb2aea6e0228173c.jpg",
+    "static/media/4.jpg": "/static/media/4.525f1f1dcd4e5c87673d.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.7710bbfd.css.map": "/static/css/main.7710bbfd.css.map",
-    "main.c18486dc.js.map": "/static/js/main.c18486dc.js.map",
-    "415.c8ae90d5.chunk.js.map": "/static/js/415.c8ae90d5.chunk.js.map",
-    "787.fa3c4679.chunk.js.map": "/static/js/787.fa3c4679.chunk.js.map"
+    "main.d88dca5b.css.map": "/static/css/main.d88dca5b.css.map",
+    "main.15875e2e.js.map": "/static/js/main.15875e2e.js.map",
+    "415.674e9489.chunk.js.map": "/static/js/415.674e9489.chunk.js.map",
+    "787.75688b6b.chunk.js.map": "/static/js/787.75688b6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7710bbfd.css",
-    "static/js/main.c18486dc.js"
+    "static/css/main.d88dca5b.css",
+    "static/js/main.15875e2e.js"
   ]
 }

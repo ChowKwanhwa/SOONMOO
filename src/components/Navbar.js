@@ -65,7 +65,7 @@ function NavBar() {
 
             <Nav.Item style={{zIndex: "999"}}>
               <Nav.Link
-                href="https://twitter.com/PUMPFUCK176852"
+                href="https://twitter.com/Soon_moo_cat"
                 style={{zIndex: "999"}}
                 onClick={() => updateExpanded(false)}
               >
