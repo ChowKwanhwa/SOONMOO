@@ -6,6 +6,7 @@ import cat2 from "../../Assets/CatPic/2.jpg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import { CgWebsite } from "react-icons/cg";
+import JupiterTerminal from "./JupiterTerminal";
 
 function Home() {
   return (
@@ -33,7 +34,8 @@ function Home() {
               </div>
             </Col>
 
-            <Col md={5} style={{ paddingBottom: 20, maxHeight: "450px" }}>
+            <Col md={5} style={{ paddingBottom: 20, height: 'auto'}}>
+              <JupiterTerminal/>
             </Col>
           </Row>
         </Container>
