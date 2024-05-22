@@ -50,7 +50,7 @@ function Home() {
                 $SONMOO dives into the feline <br /> frenzy where every transaction <br /> is a cat-tastic adventure.
               </p>
               <Button variant="primary" href="https://x.com/Soon_moo_cat" className="button-with-high-zindex">
-                Visit Soonmoo Twitter
+                Visit X/Twitter
               </Button>
               <div style={{ padding: 50, textAlign: "left" }}></div>
             </Col>

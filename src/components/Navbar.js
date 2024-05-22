@@ -75,7 +75,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://t.me/pumpfunfuck2"
+                href="https://t.me/soon_moo_cat"
                 onClick={() => updateExpanded(false)}
               >
                 <FaTelegramPlane
@@ -87,7 +87,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href=""
+                href="https://solscan.io/token/BUMffcMd7UJxnkZFaJfHpSKY3kHYFyBFoef2c7Pqan4T"
                 onClick={() => updateExpanded(false)}
               >
                 <FaFileContract style={{ marginBottom: "2px" }} /> Contract

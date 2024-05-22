@@ -59,7 +59,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://t.me/pumpfunfuck2"
+                  href="https://t.me/soon_moo_cat"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -69,7 +69,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://solscan.io/token/BUMffcMd7UJxnkZFaJfHpSKY3kHYFyBFoef2c7Pqan4T"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
